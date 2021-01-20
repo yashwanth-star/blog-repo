@@ -14,6 +14,6 @@ Django Blog Project
 #About my blog:
 This blog is developed using a Django Framework ,which is an open source python based framework that follows Model View Template(MVT) Architecture.Paging is used in my blog to 
 navigate from one page to another. If in case u wana share your blog then u can share my blog link through Email.We can write a comment about the blog written by the respective author ,
-in which the comments get displayed below the blog paragraph incliding the total count of the comments availale along with the person name who has written the comment.
-I have also included tags, if we click on any tag then it displays all the information under that particular tag that is linked with.It also shows the recently updated or added 
-pots.we can also get to know about the total publications available which gets displayed on the screen.
+in which the comments get displayed below the blog paragraph including the total count of the comments available along with the person name who has written the comment.
+I have also included tags, if we click on a tag then it displays all the information under that particular tag that is linked with.It also shows the recently updated or added 
+posts.we can also get to know about the total publications available which get displayed on the screen.
